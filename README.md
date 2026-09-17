@@ -109,8 +109,6 @@ The project uses a cleaned retail dataset named:
 
 This dataset should be accessible to the notebook in one of the supported locations:
 
-- ./data/cleaned_online_retail_data.csv
-- ../data/cleaned_online_retail_data.csv
 - project root /cleaned_online_retail_data.csv
 
 If the dataset is not present, the notebook raises a FileNotFoundError and asks the user to update the CSV path.
